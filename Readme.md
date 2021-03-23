@@ -38,3 +38,4 @@ The entire project is organized into following folders:
 	- report.pdf: This is the final project report which contains the theoretical background of all the concepts used in the project and the references. Also the zipped latex file corresponding to this report is present in the folder which can be uploaded to overleaf.com and can be edited.
 	
 5. references: Contans all the pdf files of references used during the project and that are mentioned in the final report.
+6. Team : Gajanan Modi,Akshay Bankar
